@@ -1,0 +1,1 @@
+/home/herberx/my-near-projects/help-your-decentralized-neighbor/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/herberx/my-near-projects/help-your-decentralized-neighbor/contract/src/lib.rs
